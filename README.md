@@ -2,7 +2,7 @@
 
 Para gerar o AppImage do Programa em seu PC sem precisar baixar absolutamente nada, execute esse comando:
 ```
-bash <(curl -ks https://raw.githubusercontent.com/LinuxDicasPro/4kslideshowmaker_AppImage/master/get_appimage)
+bash <(curl -ks https://raw.githubusercontent.com/LinuxDicasPro/4K_Slideshow_Maker_AppImage/refs/heads/master/get_appimage)
 ```
 
 O curl com o parâmetro -k vai retornar todo o conteúdo do script para gerar o Appimage.
