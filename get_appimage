@@ -60,7 +60,7 @@ test ! -e "appimagetool-x86_64.AppImage" && {
 #########
 
 link_prg="https://dl.4kdownload.com/app/4kslideshowmaker_${version}_amd64.tar.bz2"
-link_svg="https://static.4kdownload.com/main/img/redesign/slideshowmaker.c32d251fe348.svg"
+link_svg="https://raw.githubusercontent.com/LinuxDicasPro/4K_Slideshow_Maker_AppImage/refs/heads/master/slideshowmaker.d27c5ecf0261.svg"
 
 #########
 
